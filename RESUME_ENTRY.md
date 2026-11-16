@@ -10,7 +10,7 @@ Use this document to copy-paste the project directly onto your resume and prepar
 
 **Smart Soil NPK & Climate Telemetry System (Ergonomic Compost Maker)**  
 *Technologies: Embedded C++, Arduino UNO, RS-485 / Modbus RTU, I2C Protocol, MAX485, DHT22*  
-[GitHub Repository](https://github.com/<your-username>/ergonomic-compost-maker)
+[GitHub Repository](https://github.com/Thakur111777/IOT)
 * **Architected an embedded soil nutrient monitoring system** pairing an Arduino UNO with an industrial 3-prong RS-485 Soil NPK sensor and a DHT22 microclimate probe to continuously track Nitrogen, Phosphorus, Potassium ($mg/kg$), temperature, and humidity.
 * **Engineered noise-immune half-duplex Modbus RTU communication over RS-485** using a MAX485 transceiver at 4800 baud with dual-voltage domain isolation (12V excitation / 5V logic) on a shared ground plane.
 * **Implemented dual concurrent 16x2 LCD telemetry on a single I2C bus** by configuring PCF8574 hardware address pins (`0x27` for NPK and `0x26` for climate), eliminating bus contention without extra GPIO overhead.
@@ -21,7 +21,7 @@ Use this document to copy-paste the project directly onto your resume and prepar
 ### Option B: Concise 2-Bullet Format (For Single-Page Resumes with Limited Space)
 
 **Smart Soil NPK & Climate Monitoring Station** | *Embedded C++, Arduino, Modbus RS-485, I2C*  
-[GitHub Repository](https://github.com/<your-username>/ergonomic-compost-maker)
+[GitHub Repository](https://github.com/Thakur111777/IOT)
 * Designed and built an autonomous soil and compost telemetry station utilizing an industrial 3-prong Soil NPK sensor (Modbus RTU over RS-485) and DHT22 probe to quantify soil nutrients ($N, P, K$ in $mg/kg$) and chamber microclimate.
 * Developed custom firmware driving dual I2C LCD displays over shared lines (`0x27`/`0x26`), and empirically validated organic waste decomposition with nutrient increases up to $+90\,\text{mg/kg}$ while tracking microbial nitrogen immobilization.
 
