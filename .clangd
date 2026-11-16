@@ -1,0 +1,8 @@
+If:
+  PathMatch: ".*\\.ino"
+CompileFlags:
+  Add:
+    - -ferror-limit=0
+    - -w
+Diagnostics:
+  Suppress: ["*"]

@@ -1,0 +1,6 @@
+Sample_ID,Organic_Additive,Additive_Type,Stage,Nitrogen_mg_kg,Phosphorus_mg_kg,Potassium_mg_kg,Temp_C,Humidity_Pct,Delta_N,Delta_P,Delta_K,Agronomic_Notes
+SMP-01,Control Baseline,Native Soil,Initial,58,181,175,21.8,57.3,0,0,0,Unamended baseline garden soil matrix
+SMP-02,Banana Peel Paste,High Potassium Green Waste,Post-Decomposition,85,249,242,26.1,58.7,+27,+68,+67,Rapid microbial breakdown; significant enrichment in Potassium & Phosphorus
+SMP-03,Orange Peel Paste,High Mineral Green Waste,Post-Decomposition,87,272,265,25.9,59.1,+29,+91,+90,Highest phosphorus and potassium yield; fast organic acid mineralization
+SMP-04,Dry Fallen Leaves,High Carbon Brown Waste,Post-Decomposition,51,161,160,24.2,54.8,-7,-20,-15,Microbial nitrogen immobilization effect (C:N ratio imbalance)
+SMP-00,Air Sensor Baseline,Ambient Atmosphere,Baseline,0,0,0,21.8,57.3,0,0,0,Open-circuit zero reading verification test

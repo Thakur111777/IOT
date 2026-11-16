@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "c:/Users/Asus/OneDrive/Desktop/IOT",
+    "command": "clang++ -xc++ -std=c++14 -ferror-limit=0 -w -fsyntax-only code/smart_compost_monitor/smart_compost_monitor.ino",
+    "file": "code/smart_compost_monitor/smart_compost_monitor.ino"
+  }
+]
